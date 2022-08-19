@@ -53,5 +53,5 @@ theme_colors:
   - red
   - white
   - yellow
-
+theme_color: dark
 
